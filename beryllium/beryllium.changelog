@@ -1,0 +1,88 @@
+=============
+   2020-08-15
+=============
+
+=============
+Source
+=============
+Changelog WrathOS v1.2 
+
+• Source Rebased (Thanks to @pixysos, @xtendedrom, @superior_os)
+• RGB Accent Picker
+• RGB Gradient Picker
+• Add DU themes
+• Clipboard toast toggle
+• Show daily data usage
+• Redesign volume dialog
+• OOS style brightness
+• BatteryHealth section
+• Added Settings Animations (Thanks to @Team_Bliss_Community)
+• LockscreenCharging: squashed
+• Reset battery stats
+• Allow disable of screenshot shutter sound
+• Add caffeine qs tile
+• SystemUI: Add AmbientDisplay tile
+• SystemUI: Add USB Tether tile 
+• QS: Add Sync QS Tile
+• Advanced location tile
+• Forward port lockscreen quick unlock
+• Add option to scramble pin layout when unlocking
+• Add Haptic Feedback to tiles
+• Add animations to quick settings tiles 
+• Add interpolators to qs tiles animation
+• Double tap to sleep on lockscreen & Statusbar 
+• Add three-fingers-swipe to screenshot
+• Phone ringtone setting for Multi SIM device
+• Add hide notch support
+• Implement cutout force full screen
+• Network Traffic
+• QS columns count configurable
+• HW Keys customization support
+• Make roaming indicator optional
+• Allow using 4G icon instead LTE
+• Option to Display Data Disabled Indicator Icon
+• Add option to select brightness slider positon
+• navigation mode settings
+• Add battery styles and customizations
+• Add Compass tile
+• HeadsUp snooze function
+• Less boring heads up option
+• Volume Rocker Wake 
+• Volume key music control  
+• Volume key cursor control
+• Battery light customization
+• Ambient music: Allow to pulse on new tracks
+• Partial/full screenshot QS tile 
+• Reboot/Recovery QS Tile
+• Add VOLTE icon toggle
+• Bring back Gaming mode
+• Add an option to change the device hostname
+• Hide pill in full gestural nav mode 
+• Add Music QS Tile
+• Unlock keystore with fingerprint after reboot
+• Fingerprint authentication vibration
+• Smart Pixels
+• Implement Aggressive Battery
+• Incall vibration options
+• Add support for DiracSound FX
+• Toast icon switch
+• Add back battery bar
+• Double tap to trigger doze
+• R style notification section headers
+• Forward Port Volume Long Press Skip Tracks
+• Edit Icon Toggle
+• Add refresh rate setting
+• Add LiveDisplay
+• Add FOD icon picker
+• And Moar...
+
+=============
+Device
+=============
+• Updated Fingerprint To Coral August Security Patch
+• Switched to blueline power profile
+• Disabled few debug services
+• Dont use proximity sensor during doze
+• Switch to pixel power-libperfmgr hal
+• Tweaked powerhint
+• Added Dolby
