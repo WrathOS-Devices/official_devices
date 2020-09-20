@@ -1,0 +1,45 @@
+{
+  "totalDevices": 8,
+  "devices": {
+    "beryllium": {
+      "codename": "beryllium",
+      "maintainer": "Evilvenom",
+      "model_name": "Xiaomi Pocophone F1"
+    },
+    "raphael": {
+      "codename": "raphael",
+      "maintainer": "ejbtrd",
+      "model_name": "Xiaomi Mi 9T Pro/K20 Pro"
+    },
+    "mido": {
+      "codename": "mido",
+      "maintainer": "Smokey",
+      "model_name": "Xiaomi Redmi Note 4"
+    },
+    "lavender": {
+      "codename": "lavender",
+      "maintainer": "Smokey",
+      "model_name": "Xiaomi Redmi Note 7"
+    },
+    "violet": {
+      "codename": "violet",
+      "maintainer": "TheMarc43",
+      "model_name": "Xiaomi Redmi Note 7 Pro"
+    },
+    "ginkgo": {
+      "codename": "ginkgo",
+      "maintainer": "TheWeaver786",
+      "model_name": "Xiaomi Redmi Note 8/8T"
+    },
+    "begonia": {
+      "codename": "begonia",
+      "maintainer": "Aashil",
+      "model_name": "Xiaomi Redmi Note 8 Pro"
+    },
+    "rmx1971": {
+      "codename": "rmx1971",
+      "maintainer": "Luckyvii",
+      "model_name": "Mi Note 4"
+    }
+  }
+}
